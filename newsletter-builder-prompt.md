@@ -345,6 +345,3 @@ BUILD NEWSLETTER: [Date Range]
 |---------|------|---------|
 | 1.0 | October 2025 | Initial framework created |
 
----
-
-**SAVE THIS FILE AS:** newsletter-builder-prompt.md
